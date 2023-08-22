@@ -74,10 +74,3 @@ Start the development server:
 ```
 php artisan serve
 ```
-
-## Configuration
-
-Environment Variables: Update the .env file to configure your application's settings, including database connection, mail configuration, and more.
-
-
-
