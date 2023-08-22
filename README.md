@@ -34,9 +34,10 @@ MySQL :
 
 Clone the repository:
 
-git clone 
-
+```bash
+$ git clone https://github.com/Hardikkk10/LaravelTest.git
 cd [project-folder]
+```
 
 Install PHP dependencies:
 
