@@ -58,6 +58,9 @@ In this project we used Maatebsite/excel library to import and export the CSV an
 composer require maatwebsite/excel
 ```
 
+For more details and installation follow:
+`https://docs.laravel-excel.com/3.1/getting-started/installation.html`
+
 Start the XAMPP server and connect project to your project
 Copy the .env.example file to .env and configure your environment settings:
 
