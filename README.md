@@ -42,20 +42,19 @@ cd LaravelTest
 
 Install PHP dependencies:
 
-composer install
-Install JavaScript dependencies:
+`composer install`
 
-$ npm install
+Install dependencies:
+
+`npm install`
 
 Copy the .env.example file to .env and configure your environment settings:
 
 cp .env.example .env
-Generate an application key:
 
-php artisan key:generate
 Run database migrations and seeders:
 
-php artisan migrate --seed
+`php artisan migrate`
 
 ## Configuration
 
