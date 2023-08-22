@@ -34,7 +34,8 @@ MySQL :
 
 Clone the repository:
 
-git clone [repository-url]
+git clone 
+
 cd [project-folder]
 
 Install PHP dependencies:
@@ -42,7 +43,7 @@ Install PHP dependencies:
 composer install
 Install JavaScript dependencies:
 
-npm install
+$ npm install
 
 Copy the .env.example file to .env and configure your environment settings:
 
