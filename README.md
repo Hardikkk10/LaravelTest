@@ -25,10 +25,10 @@ Our project is built using the Laravel framework, a popular PHP framework known 
 Prerequisites
 Before you begin, ensure you have the following installed:
 
-PHP :
-Composer :
-Node.js :
-MySQL :
+PHP : `8.2.9`
+Composer : `2.5.8`
+Node.js : `v20.4.0.`
+MySQL : `8.0.32`
 
 ## Installation
 
