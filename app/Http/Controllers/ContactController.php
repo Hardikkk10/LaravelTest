@@ -43,10 +43,10 @@ class ContactController extends Controller
        return Excel::download(new ContactsExport(), 'contacts.xlsx');
     }
        
-    public function import() 
+    public function import(Request $request) 
     {
-        Excel::import(new ContactsExport,request()->file('file')->store('files'));
+        Excel::import(new ContactsImport,$request->file('file'));
                
-        return back();
+        return redirect()->back();
     }
 }

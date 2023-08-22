@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\UserController;
 use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\DB;
 use App\Models\User;
