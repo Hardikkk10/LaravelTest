@@ -52,14 +52,27 @@ Install dependencies:
 npm install
 ```
 
+In this project we used Maatebsite/excel library to import and export the CSV and Excel files, so run this command to get it for the project:
+
+```
+composer require maatwebsite/excel
+```
+
+Start the XAMPP server and connect project to your project
 Copy the .env.example file to .env and configure your environment settings:
 
-cp .env.example .env
+`cp .env.example .env`
 
-Run database migrations and seeders:
+Run database migrations:
 
 ```
 php artisan migrate
+```
+
+Start the development server:
+
+```
+php artisan serve
 ```
 
 ## Configuration
