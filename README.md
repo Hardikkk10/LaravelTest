@@ -42,11 +42,15 @@ cd LaravelTest
 
 Install PHP dependencies:
 
-```composer install```
+```
+composer install
+```
 
 Install dependencies:
 
-```npm install```
+```
+npm install
+```
 
 Copy the .env.example file to .env and configure your environment settings:
 
@@ -54,7 +58,9 @@ cp .env.example .env
 
 Run database migrations and seeders:
 
-```php artisan migrate```
+```
+php artisan migrate
+```
 
 ## Configuration
 
