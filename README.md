@@ -78,7 +78,6 @@ Start the development server:
 php artisan serve
 ```
 
-<p align="left"> <a href="https://twitter.com/hardikkkk1" target="blank"><img src="https://img.shields.io/twitter/follow/_hardikkkk?logo=twitter&style=for-the-badge" alt="_hardikkkk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
