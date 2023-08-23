@@ -10,7 +10,7 @@ The program should demonstrate the import and export of contact data.
 
 ## Project Overview
 
-Our project is built using the Laravel framework, a popular PHP framework known for its elegant syntax, robust features, and developer-friendly tools. This project serves as a [brief description of the project's purpose and goals].
+This project is built using the Laravel framework, a popular PHP framework known for its elegant syntax, robust features, and developer-friendly tools. This project serves as a web application to maintain recordes of the contact(s) for the sales activity of Sai Ashirwad Informatia (SAI). Authentication is done with the help of jetstream and livewire.
 
 ## Features
 
